@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners": {
+    "type": "primitive_mobs:skeleton_warrior",
+    "weight": 70,
+    "minCount": 3,
+    "maxCount": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "primitive_mobs:dodo"
+  },
+  "result": "primitive_mobs:cooked_dodo",
+  "experience": 0.35,
+  "cookingtime": 100
+}

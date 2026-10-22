@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "primitive_mobs:camouflage_dye"
+    },
+    {
+      "item": "minecraft:leather_leggings"
+    }
+  ],
+  "result": {
+    "item": "primitive_mobs:camouflage_leggings"
+  }
+}

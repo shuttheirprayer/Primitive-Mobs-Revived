@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "primitive_mobs:dodo"
+  },
+  "result": "primitive_mobs:cooked_dodo",
+  "experience": 0.35,
+  "cookingtime": 600
+}

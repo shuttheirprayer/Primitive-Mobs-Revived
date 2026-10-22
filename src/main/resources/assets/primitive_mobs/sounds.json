@@ -1,0 +1,122 @@
+{
+  "entity.brainslime.slimecharge": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.brainslime.slimecharge",
+    "sounds": [
+      "primitive_mobs:entity/brainslime/slimecharge"
+    ]
+  },
+  "entity.motherspider.spiderscreech": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.motherspider.spiderscreech",
+    "sounds": [
+      "primitive_mobs:entity/motherspider/spiderscreech"
+    ]
+  },
+  "entity.grovesprite.angry": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.angry",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/angry1"
+    ]
+  },
+  "entity.grovesprite.death": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.death",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/death1",
+      "primitive_mobs:entity/grovesprite/death2"
+    ]
+  },
+  "entity.grovesprite.friend": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.friend",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/friend1",
+      "primitive_mobs:entity/grovesprite/friend2"
+    ]
+  },
+  "entity.grovesprite.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.hurt",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/hurt1",
+      "primitive_mobs:entity/grovesprite/hurt2",
+      "primitive_mobs:entity/grovesprite/hurt3"
+    ]
+  },
+  "entity.grovesprite.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.idle",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/idle1",
+      "primitive_mobs:entity/grovesprite/idle2",
+      "primitive_mobs:entity/grovesprite/idle3"
+    ]
+  },
+  "entity.grovesprite.thanks": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.grovesprite.thanks",
+    "sounds": [
+      "primitive_mobs:entity/grovesprite/thanks1",
+      "primitive_mobs:entity/grovesprite/thanks2",
+      "primitive_mobs:entity/grovesprite/thanks3"
+    ]
+  },
+  "entity.trollager.attack": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.trollager.attack",
+    "sounds": [
+      "primitive_mobs:entity/trollager/attack"
+    ]
+  },
+  "entity.trollager.death": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.trollager.death",
+    "sounds": [
+      "primitive_mobs:entity/trollager/death"
+    ]
+  },
+  "entity.trollager.hit": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.trollager.hit",
+    "sounds": [
+      "primitive_mobs:entity/trollager/hit"
+    ]
+  },
+  "entity.trollager.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.trollager.idle",
+    "sounds": [
+      "primitive_mobs:entity/trollager/idle"
+    ]
+  },
+  "entity.harpy.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.harpy.idle",
+    "sounds": [
+      "primitive_mobs:entity/harpy/idle"
+    ]
+  },
+  "entity.harpy.hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.harpy.hurt",
+    "sounds": [
+      "primitive_mobs:entity/harpy/hurt"
+    ]
+  },
+  "entity.flamespewer.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.flamespewer.idle",
+    "sounds": [
+      "primitive_mobs:entity/flamespewer/idle"
+    ]
+  },
+  "entity.voideye.idle": {
+    "category": "neutral",
+    "subtitle": "subtitles.primitive_mobs.entity.voideye.idle",
+    "sounds": [
+      "primitive_mobs:entity/voideye/idle"
+    ]
+  }
+}
